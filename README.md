@@ -37,7 +37,7 @@ Project setup
 
 * Download tomcat 9 server from https://tomcat.apache.org/download-90.cgi.
 * Extract the downloaded zip file.
-* Open the Eclipse IDE and setup the tomcate server in it.
+* Open the Eclipse IDE and setup the tomcat server in it.
 
 **Import this project in eclipse**
 
