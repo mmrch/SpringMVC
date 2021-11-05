@@ -34,7 +34,7 @@
 		<property name="url"
 			value="jdbc:mysql://localhost:3308/shopbridge" />
 		<property name="username" value="root" />
-		<property name="password" value="Mmrch@1822" />
+		<property name="password" value="passWord" />
 
 	</bean>
 
