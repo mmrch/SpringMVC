@@ -39,7 +39,7 @@ Project setup
 * Extract the downloaded zip file.
 * Open the Eclipse IDE and setup the tomcate server in it.
 
-**Import the this project in eclipse**
+**Import this project in eclipse**
 
 * Download this project from github as zip file.
 * Extract the downloaded zip file.
